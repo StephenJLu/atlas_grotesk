@@ -1,0 +1,1131 @@
+html {
+  background: white;
+}
+body {
+  overflow-x: hidden;
+  width: 1440px;
+  margin: 0 auto 0;
+}
+h1 {
+  font-family: "AtlasGroteskLC";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 220px;
+  font-size: 329.12px;
+  letter-spacing: -0.06em;
+}
+h2 {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 100px;
+  letter-spacing: -0.05em;
+}
+h3 {
+  font-family: "AtlasGroteskLC";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  letter-spacing: -0.045em;
+}
+h4 {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+}
+.atlas_grotesk {
+  position: relative;
+  height: 600px;
+  margin-bottom: 122px;
+}
+.atlas_sh7 {
+  position: absolute;
+  width: 65.34px;
+  height: 120.54px;
+  margin-left: 97px;
+  margin-top: 67.12px;
+  transform: rotate(-41.3deg);
+  z-index: 1;
+}
+.atlas_sh5 {
+  position: absolute;
+  width: 44.83px;
+  height: 202.16px;
+  margin-left: 707.78px;
+  margin-top: -29px;
+  transform: rotate(21.1deg);
+  z-index: 1;
+}
+.atlas_sh2 {
+  position: absolute;
+  width: 46.97px;
+  height: 90.54px;
+  margin-left: 997.42px;
+  margin-top: 336px;
+  transform: rotate(13.68deg);
+  z-index: 1;
+}
+.sh1_2 {
+  position: absolute;
+  margin-top: 211px;
+  margin-left: 1033px;
+}
+.sh3_1 {
+  position: absolute;
+  margin-top: 220px;
+  margin-left: 1219px;
+}
+.sh3_2 {
+  position: absolute;
+  margin-top: -30px;
+  margin-left: 328px;
+}
+.sh4_2 {
+  position: absolute;
+  margin-top: 280px;
+  margin-left: 865px;
+}
+.sh5_2 {
+  position: absolute;
+  margin-top: 21px;
+  margin-left: 1149px;
+}
+.sh6_1 {
+  position: absolute;
+  margin-top: 501px;
+  margin-left: 114px;
+}
+.sh7_2 {
+  position: absolute;
+  margin-top: 92px;
+  margin-left: 872px;
+}
+.atlas {
+  position: absolute;
+  margin: 29px 0 0 64px;
+}
+.gr {
+  width: 300px;
+  position: absolute;
+  margin: 225px 0 0 245px;
+}
+.eco_pic {
+  position: absolute;
+  margin: 353px 0 0 550px;
+}
+.tesk {
+  position: absolute;
+  margin: 243px 0 0 730px;
+  width: 645px;
+}
+.atlas_history {
+  position: relative;
+  height: 529px;
+  margin-bottom: 187px;
+}
+.history {
+  display: flex;
+  align-items: center;
+  margin-left: 70px;
+}
+.history_sh1 {
+  position: absolute;
+  width: 36.88px;
+  height: 65.42px;
+  margin-left: 115px;
+  margin-top: -36px;
+  transform: rotate(-66.69deg);
+  z-index: 1;
+}
+.history_sh5 {
+  position: absolute;
+  width: 34px;
+  margin-top:-30px;
+  margin-left: 409px;
+  transform: rotate(70deg);
+}
+.history_sh6 {
+  position: absolute;
+  width: 58px;
+  height: 45px;
+  margin-left: 584px;
+  margin-top: -3px;
+  transform: rotate(-24.45deg);
+}
+.one {
+  width: 46px;
+  height: 46px;
+  border-radius: 100%;
+  border: 2.57px solid black;
+}
+.history p {
+  font-family: "AtlasGroteskLC";
+  font-size: 27px;
+  width: 20px;
+  height: 30px;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+  margin: 8px 13px;
+}
+.history h3 {
+  position: relative;
+  margin-left: 14px;
+}
+.data {
+  margin-top: 41px;
+  margin-left: 135px;
+  display: flex;
+}
+#d1957 {
+  width: 490px;
+}
+#d1957 h3 {
+  color: #058C42;
+}
+#d1957 h4 {
+  margin-top: 17px;
+}
+#d2020 {
+  position: relative;
+  width: 490px;
+  margin-left: 200px;
+}
+#d2020 h3 {
+  color: #FBD914;
+}
+#d2020 h4 {
+  margin-top: 17px;
+}
+.atlass {
+  display: flex;
+  align-items: center;
+}
+.atlas_en {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 190px;
+  letter-spacing: -0.065em;
+  margin-top: 67px;
+  margin-left: 133px;
+}
+.latin {
+  position: absolute;
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  letter-spacing: -0.045em;
+  text-decoration-line: underline;
+  margin-left: 374px;
+}
+.line_atlas {
+  position: relative;
+  content: none;
+  width: 194px;
+  height: 0px;
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-left: 45px;
+}
+.atlas_ru {
+  position: relative;
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 190px;
+  letter-spacing: -0.065em;
+  margin-top: 67px;
+  margin-left: 30px;
+}
+.cyrillic {
+  position: absolute;
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  letter-spacing: -0.045em;
+  text-decoration-line: underline;
+  margin-left: 383px;
+}
+.atlas_details {
+  position: relative;
+  height: 570px;
+  margin-bottom: 213px;
+}
+.details_sh4 {
+  position: absolute;
+  width: 48px;
+  margin-left: 54.94px;
+  margin-top: -14px;
+  transform: rotate(15.58deg);
+}
+.details_sh6 {
+  position: absolute;
+  width: 55.2px;
+  margin-left: 234px;
+  margin-top: 33px;
+  transform: rotate(-12.78deg);
+  z-index: 1;
+}
+.details_sh3 {
+  position: absolute;
+  width: 31px;
+  margin-left: 393.94px;
+  margin-top: -66px;
+  transform: rotate(72deg);
+}
+
+.details_sh7 {
+  position: absolute;
+  width: 35px;
+  margin-left: 506px;
+  margin-top: 5px;
+  transform: rotate(-54.53deg);
+}
+
+#details {
+  display: flex;
+  margin-left: 70px;
+  margin-bottom: 159px;
+}
+.two {
+  width: 46px;
+  height: 46px;
+  border-radius: 100%;
+  border: 2.57px solid black;
+}
+#details p {
+  font-family: "AtlasGroteskLC";
+  font-size: 27px;
+  width: 20px;
+  height: 30px;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+  margin: 8px 13px;
+}
+#details h3 {
+  position: relative;
+  margin-left: 14px;
+}
+#details h4 {
+  position: absolute;
+  width: 565px;
+  margin-left: 755px;
+}
+.brief {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 322px;
+  letter-spacing: -0.055em;
+  text-align: center;
+}
+.brief_img {
+  position: absolute;
+  margin: -273px 0 0 -443px;
+}
+.atlas_stylistics {
+  position: relative;
+  height: 2103px;
+  margin-bottom: 136px;
+}
+.stylistics_sh {
+  position: absolute;
+  width: 31px;
+  margin-left: 184px;
+  margin-top: -44px;
+  transform: rotate(-77.66deg);
+  z-index: 1;
+}
+.stylistics_sh5 {
+  position: absolute;
+  width: 28px;
+  margin-left: 438px;
+  margin-top: -73px;
+  transform: rotate(73deg);
+  z-index: 1;
+}
+.stylistics_sh1 {
+  position: absolute;
+  width: 40px;
+  margin-left: 541px;
+  margin-top: 25px;
+  transform: rotate(116deg);
+}
+#stylistics {
+  display: flex;
+  margin-left: 70px;
+  margin-bottom: 143px;
+}
+.three {
+  width: 46px;
+  height: 46px;
+  border-radius: 100%;
+  border: 2.57px solid black;
+}
+#stylistics p {
+  font-family: "AtlasGroteskLC";
+  font-size: 27px;
+  width: 20px;
+  height: 30px;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+  margin: 8px 13px;
+}
+#stylistics h3 {
+  position: relative;
+  margin-left: 14px;
+}
+#stylistics h4 {
+  position: absolute;
+  width: 565px;
+  margin-left: 755px;
+}
+.A_Z {
+  margin-left: 50px;
+}
+.atlas_diversity {
+  position: relative;
+  height: 826px;
+  margin-bottom: 112px;
+}
+.diversity_sh5 {
+  position: absolute;
+  width: 26px;
+  margin-left: 109px;
+  margin-top: -6px;
+  transform: rotate(278deg);
+  z-index: 1;
+}
+.diversity_sh2 {
+  position: absolute;
+  width: 28px;
+  margin-left: 273px;
+  margin-top: -27px;
+  transform: rotate(73deg);
+  z-index: 1;
+}
+.diversity_sh3 {
+  position: absolute;
+  width: 25px;
+  margin-left: 535px;
+  margin-top: 2px;
+  transform: rotate(40deg);
+  z-index: 1;
+}
+.diversity_sh4 {
+  position: absolute;
+  width: 43px;
+  margin-left: 627px;
+  margin-top: -33px;
+  transform: rotate(340deg);
+  z-index: 1;
+}
+#diversity {
+  display: flex;
+  margin-left: 70px;
+  margin-bottom: 220px;
+}
+.four {
+  width: 46px;
+  height: 46px;
+  border-radius: 100%;
+  border: 2.57px solid black;
+}
+#diversity p {
+  font-family: "AtlasGroteskLC";
+  font-size: 27px;
+  width: 20px;
+  height: 30px;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-block;
+  margin: 8px 13px;
+}
+#diversity h3 {
+  position: relative;
+  margin-left: 14px;
+}
+#diversity h4 {
+  position: absolute;
+  width: 565px;
+  margin-left: 755px;
+}
+.sshurupi {
+  position: absolute;
+  margin-left: 104px;
+}
+.top {
+  display: flex;
+  align-items: center;
+  height: 20px;
+  margin-bottom: -10px;
+}
+.top p {
+  font-family: "AtlasGroteskLC";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  color: #058C42;
+  margin-bottom: -12px;
+}
+.line_1 {
+  width: 1042px;
+  height: 0px;
+  background: #058C42;
+  border: 1px solid #058C42;
+  margin: 6px 32px 0 32px;
+}
+.shurupi {
+  font-size: 274px;
+  letter-spacing: -0.08em;
+}
+.shurupi1 {
+  margin-bottom: -60px;
+}
+.sh_1 {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 100;
+}
+.u_11 {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 300;
+}
+.r_1 {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+}
+.u_12 {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 500;
+}
+.p_1 {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 700;
+}
+.i_1 {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 900;
+}
+.sh_2 {
+  font-family: 'AtlasGroteskLC';
+  font-style: italic;
+  font-weight: 100;
+}
+.u_21 {
+  font-family: 'AtlasGroteskLC';
+  font-style: italic;
+  font-weight: 300;
+}
+.r_2 {
+  font-family: 'AtlasGroteskLC';
+  font-style: italic;
+  font-weight: 400;
+}
+.u_22 {
+  font-family: 'AtlasGroteskLC';
+  font-style: italic;
+  font-weight: 500;
+}
+.p_2 {
+  font-family: 'AtlasGroteskLC';
+  font-style: italic;
+  font-weight: 700;
+}
+.i_2 {
+  font-family: 'AtlasGroteskLC';
+  font-style: italic;
+  font-weight: 900;
+}
+.bottom {
+  display: flex;
+  align-items: center;
+  height: 20px;
+  margin-top: -14px;
+  margin-left: 8px;
+}
+.bottom p{
+  font-family: "AtlasGroteskLC";
+  font-style: italic;
+  font-weight: 500;
+  font-size: 20px;
+  color: #058C42;
+  margin-bottom: -12px;
+}
+.line_2 {
+  width: 889px;
+  height: 0px;
+  background: #058C42;
+  border: 1px solid #058C42;
+  margin: 6px 32px 0 32px;
+}
+.ostorozhno {
+  position: relative;
+  height: 320px;
+  margin-bottom: 165px;
+}
+.row_1 {
+  display: flex;
+  align-items: center;
+  margin-left: -124px;
+}
+.row_1 img {
+  margin: 0 88px 0;
+  height: 75px;
+}
+.row_2 {
+  display: flex;
+  align-items: center;
+  margin-left: -211px;
+}
+.row_2 img {
+  margin: 0 88px 0;
+  height: 75px;
+}
+.row_3 {
+  display: flex;
+  align-items: center;
+  margin-left: -208px;
+}
+.row_3 img {
+  margin: 0 88px 0;
+  height: 75px;
+}
+.mockups {
+  position: relative;
+  height: 690px;
+  margin-bottom: 43px;
+}
+.row_1_mockups {
+  display: flex;
+  margin-left: 90px;
+}
+.instruction {
+  width: 430px;
+  height: 509px;
+  border: 3px solid #000000;
+}
+.header {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36.1453px;
+  letter-spacing: -0.03em;
+  margin: 20px 0 10px 0;
+  text-align: center;
+}
+.line_instr {
+  width: 393px;
+  height: 0px;
+  background: #000000;
+  border: 2px solid #000000;
+  margin: 0 18.5px 0;
+}
+.pinnig {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 115.665px;
+  letter-spacing: -0.03em;
+  text-align: center;
+  margin-bottom: 7px;
+  color: #058C42;
+}
+.v_complecte {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36.1453px;
+  letter-spacing: -0.03em;
+  margin: 28px 0 0 18.5px;
+  color: #FBD914;
+}
+.complect {
+  display: flex;
+  line-height: 136%;
+  margin: 16px 0 0 18.5px;
+}
+.things {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18.0726px;
+  letter-spacing: -0.03em;
+  width: 140px;
+}
+.count {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18.0726px;
+  letter-spacing: -0.03em;
+  text-align: right;
+  margin-left: 217px;
+}
+.instruction img {
+  margin: 45px 0 0 18.5px
+}
+.centre {
+  width: 450px;
+  margin: 0 42px 0 45px;
+}
+.bench_h {
+  position: absolute;
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  letter-spacing: -0.03em;
+  margin: 28px 0 0 218px;
+  color: #FBD914;
+}
+.bench_t {
+  position: absolute;
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  letter-spacing: -0.03em;
+  margin: 70px 0 0 218px;
+}
+.price {
+  position: absolute;
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  letter-spacing: -0.03em;
+  margin: 180px 0 0 218px;
+}
+.cross_11 {
+  position: absolute;
+  width: 22px;
+  height: 0px;
+  border: 1px solid #000000;
+  background: #000000;
+  transform: rotate(113.12deg);
+  margin: 29px 0 0 18px;
+  z-index: 1;
+}
+.cross_21 {
+  position: absolute;
+  width: 22px;
+  height: 0px;
+  border: 1px solid #000000;
+  background: #000000;
+  transform: rotate(23.12deg);
+  margin: 29px 0 0 18px;
+  z-index: 1;
+}
+.cross_circle_1 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  background: #FFFFFF;
+  border: 2px solid #000000;
+  border-radius: 100px;
+  margin: 10px 0 0 10px;
+}
+.cross_12 {
+  position: absolute;
+  width: 22px;
+  height: 0px;
+  border: 1px solid #000000;
+  background: #000000;
+  transform: rotate(71.58deg);
+  margin: 196px 0 0 402px;
+  z-index: 1;
+}
+.cross_22 {
+  position: absolute;
+  width: 22px;
+  height: 0px;
+  border: 1px solid #000000;
+  background: #000000;
+  transform: rotate(-18.42deg);
+  margin: 196px 0 0 402px;
+  z-index: 1;
+}
+.cross_circle_2 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  background: #FFFFFF;
+  border: 2px solid #000000;
+  border-radius: 100px;
+  margin: 177px 0 0 394px;
+}
+.down {
+  display: flex;
+  margin: 27px 0 0 -17px;
+}
+.ecooo {
+  margin-left: -5px;
+}
+.care {
+  width: 277px;
+  height: 507px;
+  border: 3px solid #000000;
+  border-radius: 33px;
+  z-index: 1;
+}
+.care_2 {
+  position: absolute;
+  margin: 138px 0 0 887px;
+  transform: rotate(-90deg);
+}
+.circle {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  background: #FFFFFF;
+  border: 2px solid #000000;
+  border-radius: 100px;
+  margin: 10px 0 0 227px;
+  z-index: 1
+}
+.circle2 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  background: #FFFFFF;
+  border: 2px solid #000000;
+  border-radius: 100px;
+  margin: 457px 0 0 10px;
+  z-index: 1
+}
+.linee {
+  position: absolute;
+  width: 22px;
+  height: 0px;
+  border: 1px solid #000000;
+  background: #000000;
+  transform: rotate(40deg);
+  margin: 28px 0 0 235px;
+  z-index: 2;
+}
+.linee2 {
+  position: absolute;
+  width: 22px;
+  height: 0px;
+  border: 1px solid #000000;
+  background: #000000;
+  transform: rotate(331deg);
+  margin: 476px 0 0 19px;
+  z-index: 2;
+}
+.care_t {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60.6439px;
+  letter-spacing: -0.03em;
+  text-align: center;
+  margin-top: 20px;
+}
+.care_h {
+  font-family: 'Atlas Grotesk LC';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 159.402px;
+  letter-spacing: -0.03em;
+  text-align: center;
+  color: #058C42;
+}
+.attention {
+  position: absolute;
+  margin: -108px 0 0 91px;
+}
+.posters {
+  display: flex;
+  margin: 0 0 130px 90px;
+}
+.posters_sh7 {
+  position: absolute;
+  width: 59px;
+  margin-left: 92px;
+  margin-top: 556px;
+  transform: rotate(310deg);
+  z-index: 1;
+}
+.poster_1 {
+  width: 418px;
+  margin-right: 10px;
+}
+.poster_2 {
+  height: 585px;
+  margin-right: 17px;
+}
+.poster_3 {
+  height: 585px;
+}
+.constructor {
+  position: relative;
+  height: 1076px;
+  margin-bottom: 73px;
+}
+.constr_sh3 {
+  position: absolute;
+  width: 40px;
+  margin-left: 1119px;
+  margin-top: -44px;
+  transform: rotate(71deg);
+  z-index: 1;
+}
+.constructor h2 {
+  margin-bottom: 31px;
+  text-align: center;
+}
+.row_1_constr {
+  display: flex;
+  align-items: center;
+  margin: 0 134.5px -56px 134.5px;
+}
+.row_1_constr p {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 286.878px;
+  letter-spacing: -0.065em;
+  height: 288px;
+}
+.row_2_constr {
+  display: flex;
+  align-items: center;
+  margin: 0 134.5px -57px 134.5px;
+}
+.row_2_constr p {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 286.878px;
+  letter-spacing: -0.065em;
+  height: 288px;
+}
+.row_3_constr {
+  display: flex;
+  align-items: center;
+  margin: 0 134.5px 0 134.5px;
+}
+.row_3_constr p {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 286.878px;
+  letter-spacing: -0.065em;
+  height: 288px;
+}
+.row_1_constr img, .row_2_constr img, .row_3_constr img {
+  margin-right: 10px;
+}
+.contain {
+  position: relative;
+  height: 1650px;
+  margin-bottom: 251px;
+}
+.contain h2 {
+  text-align: center;
+}
+.row_1_contain {
+  margin-top: 72px;
+  display: flex;
+}
+.row_2_contain, .row_3_contain, .row_4_contain {
+  display: flex;
+}
+.descript {
+  margin-left: 45px;
+  width: 218px;
+}
+.descript h2 {
+  text-align: left;
+  color: #FBD914;
+}
+.descript h4 {
+  font-family: 'AtlasGroteskLC';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 20px;
+  margin-top: 11px;
+}
+.alphabet_latin {
+  width: 1000px;
+  margin-left: 128px;
+}
+.alphabet_cyrillic {
+  width: 1000px;
+  margin-left: 128px;
+}
+.numbers {
+  width: 1000px;
+  margin-left: 128px;
+}
+.punctuation {
+  width: 1000px;
+  margin-left: 128px;
+}
+.row_1_table {
+  display: flex;
+  border-top: 3px solid #000000;
+  border-bottom: 3px solid #000000;
+  margin-top: 10px;
+}
+.row_2_table, .row_3_table, .row_4_table, .row_5_table {
+  display: flex;
+  border-bottom: 3px solid #000000;
+}
+.row_1_table p, .row_2_table p, .row_3_table p, .row_4_table p, .row_5_table p {
+  width: 80px;
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 53.0504px;
+  text-align: center;
+  letter-spacing: -0.065em;
+  margin: 13px 0 11px 0px;
+}
+.row_5_table_lat {
+  display: flex;
+  border-bottom: 3px solid #000000;
+}
+.row_5_table_lat p {
+  width: 77px;
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 53.0504px;
+  text-align: center;
+  letter-spacing: -0.065em;
+  margin: 13px 0 11px 0px;
+}
+.row_6_table_cyr {
+  display: flex;
+  border-bottom: 3px solid #000000;
+}
+.row_6_table_cyr p {
+  width: 77px;
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 53.0504px;
+  text-align: center;
+  letter-spacing: -0.065em;
+  margin: 13px 0 11px 0px;
+}
+.row_1_table img {
+  margin: 5px 16px 5px 16px;
+}
+.frac {
+  margin: 16px;
+}
+.small1 {
+  margin: 16px 29.5px;
+}
+.row_2_contain, .row_3_contain, .row_4_contain {
+  margin-top: 20px;
+}
+.row_4_table_pun {
+  display: flex;
+  border-bottom: 3px solid #000000;
+}
+.row_4_table_pun p {
+  width: 77px;
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 53.0504px;
+  text-align: center;
+  letter-spacing: -0.065em;
+  margin: 13px 0 11px 0px;
+}
+.end {
+  position: relative;
+  display: flex;
+  height: 232px;
+}
+.end_sh1 {
+  position: absolute;
+  width: 47px;
+  margin-left: 1042px;
+  margin-top: 45px;
+  transform: rotate(34deg);
+  z-index: 1;
+}
+.bill1 {
+  position: absolute;
+  overflow: hidden;
+  margin-top: -119px;
+  width: 745px;
+  height: 355px;
+}
+.bill {
+  position: absolute;
+  width: 603px;
+  height: 353px;
+  background: #FFFFFF;
+  border: 2px solid #000000;
+  transform: rotate(7.78deg);
+  margin: 45px 0 0 105px;
+  z-index: 1;
+}
+.cheque {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 33.2114px;
+  text-align: center;
+  letter-spacing: -0.05em;
+  margin: 25px 0 30px 0;
+}
+.bill h4 {
+  margin-left: 35px;
+}
+.def {
+  display: flex;
+}
+.right_t {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: right;
+  margin-left: 325px;
+}
+.payment {
+  display: flex;
+}
+.school {
+  font-family: 'AtlasGroteskLC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: right;
+  margin-left: 68px;
+}
+.hse {
+  position: absolute;
+  width: 256px;
+  /* height: 216px; */
+  margin: 70px 0 0 1071px;
+}
+.rectangle {
+  position: absolute;
+  width: 1920px;
+  background: #000000;
+  border: 1px solid #000000;
+  margin-left: -235px;
+}
